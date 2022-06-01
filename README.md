@@ -29,3 +29,11 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+# my lines
+
+> add:  将修改的文件提交到暂存区
+>
+> commit: 将暂存区提交到本地存储仓库
+>
+> push: 将本地仓库的文件推送到远程仓库
